@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ScanOnABudget</string>
+    <string name="tab_text_1">Scan</string>
+    <string name="tab_text_2">List</string>
+    <string name="tab_text_3">Setting</string>
+    <string name="ScanYourBarcode">Scan Your Barcode</string>
+    <string name="sample_title">Sample Title</string>
+    <string name="sample_description">Sample Description</string>
+    <string name="todo">TODO</string>
+    <string name="Add">Add</string>
+    <string name="Share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="General">General</string>
+    <string name="Theme">Theme</string>
+    <string name="HandF"><![CDATA[Help & Feedback]]></string>
+    <string name="ScanControl">Scan Control</string>
+    <string name="VibrateIcon">Vibrate Icon</string>
+    <string name="Soundicon">on/off Sound icon</string>
+    <string name="FastScanIcon">Fast scan icon</string>
+    <string name="FastScan">Fast Scan</string>
+    <string name="FastScanD">Do not show the Detail Screen After each scan</string>
+    <string name="Sound">Play Sound</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="ProductB">Product Barcodes</string>
+    <string name="Loction">Country for product search</string>
+    <string name="aorof">Automtic / Off</string>
+    <string name="Automatic">Automatic</string>
+    <string name="themeSwith">Night Mode</string>
+</resources>
